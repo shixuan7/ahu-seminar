@@ -8,7 +8,7 @@
 
 | 日期 | 汇报人 | 论文                                                                                                                                                                |
 | :---: |:--------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025.03.26 | 倪赢杰 | [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/abs/2501.08282) {:target="_blank"} (CVPR 2025)                      |
+| 2025.03.26 | 倪赢杰 | [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/abs/2501.08282) (CVPR 2025)                       |
 | 2025.03.26 | 陈聪 | [SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion](https://arxiv.org/abs/2409.17531) (NeurIPS 2024)                               |
 | 2025.03.26 | 王鑫睿 | [Single-Model and Any-Modality for Video Object Tracking](https://arxiv.org/abs/2311.15851) (CVPR 2024)                                                           |
 | 2025.03.26 | 商宗鑫 | [IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing](https://arxiv.org/abs/2412.15867) (CVPR 2025)                                            |
@@ -35,12 +35,6 @@
    - 📈 实验结果分析
    - 💡 个人见解与思考
 4. 🤝 鼓励积极讨论，提出问题和建议
-
-### 📜 往期分享
-
-#### 🗓️ 2024年冬季学期
-（往期记录将在之后添加）
-
 ---
 
 > 💫 欢迎大家积极参与组会讨论！如有任何建议，请随时提出。
